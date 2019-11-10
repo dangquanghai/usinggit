@@ -1,2 +1,2 @@
-My new app
-This is my new app
+This example for how to use git in command
+
